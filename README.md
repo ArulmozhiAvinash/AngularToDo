@@ -1,2 +1,2 @@
 # AngularToDo
-Simple TODO app using Angular 
+Simple Todo app using Angular 
